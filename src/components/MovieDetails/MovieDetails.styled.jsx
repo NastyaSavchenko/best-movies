@@ -81,6 +81,8 @@ export const MoreInfoList = styled.ul`
   justify-content: center;
   margin-bottom: 30px;
   max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
 `;
 
 export const InfoLink = styled(Link)`
