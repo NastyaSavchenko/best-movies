@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/best-movies/static/css/main.c20264be.css",
+    "main.js": "/best-movies/static/js/main.3f28a4ce.js",
+    "static/js/133.1e9347cb.chunk.js": "/best-movies/static/js/133.1e9347cb.chunk.js",
+    "static/js/426.eeff1aea.chunk.js": "/best-movies/static/js/426.eeff1aea.chunk.js",
+    "static/js/170.f4820c64.chunk.js": "/best-movies/static/js/170.f4820c64.chunk.js",
+    "static/js/736.f7025243.chunk.js": "/best-movies/static/js/736.f7025243.chunk.js",
+    "static/js/387.76d6722a.chunk.js": "/best-movies/static/js/387.76d6722a.chunk.js",
+    "static/js/669.caa46283.chunk.js": "/best-movies/static/js/669.caa46283.chunk.js",
+    "static/js/355.8e75bc19.chunk.js": "/best-movies/static/js/355.8e75bc19.chunk.js",
+    "static/media/imageNotFound.jpg": "/best-movies/static/media/imageNotFound.f1b49c76e4228257310f.jpg",
+    "index.html": "/best-movies/index.html",
+    "main.c20264be.css.map": "/best-movies/static/css/main.c20264be.css.map",
+    "main.3f28a4ce.js.map": "/best-movies/static/js/main.3f28a4ce.js.map",
+    "133.1e9347cb.chunk.js.map": "/best-movies/static/js/133.1e9347cb.chunk.js.map",
+    "426.eeff1aea.chunk.js.map": "/best-movies/static/js/426.eeff1aea.chunk.js.map",
+    "170.f4820c64.chunk.js.map": "/best-movies/static/js/170.f4820c64.chunk.js.map",
+    "736.f7025243.chunk.js.map": "/best-movies/static/js/736.f7025243.chunk.js.map",
+    "387.76d6722a.chunk.js.map": "/best-movies/static/js/387.76d6722a.chunk.js.map",
+    "669.caa46283.chunk.js.map": "/best-movies/static/js/669.caa46283.chunk.js.map",
+    "355.8e75bc19.chunk.js.map": "/best-movies/static/js/355.8e75bc19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c20264be.css",
+    "static/js/main.3f28a4ce.js"
+  ]
+}
