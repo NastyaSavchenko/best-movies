@@ -14,7 +14,6 @@ const Trailer = () => {
     width: '400',
     playerVars: {
       autoplay: 0,
-      origin: 'https://nastyasavchenko.github.io/best-movies/',
     },
   };
 
